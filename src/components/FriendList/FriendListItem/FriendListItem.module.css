@@ -1,0 +1,33 @@
+.item {
+    list-style-type: none;
+    padding: 5px;
+    border: 1px solid pink;
+    border-radius: 4px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap:40px;
+
+    background-color: darkgrey;
+    max-width: 600px;
+    
+}
+
+.status {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    background-color: none;
+}
+
+.avatar {
+    width: 25%;
+}
+
+.name {
+    width: 40%;
+    text-align: center;
+    color: pink;
+}
