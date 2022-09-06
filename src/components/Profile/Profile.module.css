@@ -1,12 +1,10 @@
 .profile {
     background-color: white;
-    
     border-radius: 4px;
 }
 
 .description {
     padding: 40px;
-
 }
 
 .avatar {
@@ -20,8 +18,9 @@
 .name {
     text-align: center;
 }
-.location, .tag {
-    
+
+.location,
+.tag {
     text-align: center;
     color: lightgrey;
 }
@@ -32,10 +31,9 @@
     padding: 0;
     margin: 0;
     width: 100%;
-    
 }
 
-.stats li{
+.stats li {
     width: calc((100%) / 3);
     text-align: center;
     display: flex;
@@ -43,4 +41,4 @@
     background-color: lightpink;
     padding: 40px 10px;
     border: 2px dashed grey;
-}   
+}

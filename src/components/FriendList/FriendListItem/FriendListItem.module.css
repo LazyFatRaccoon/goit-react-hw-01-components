@@ -7,11 +7,10 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    gap:40px;
+    gap: 40px;
 
     background-color: darkgrey;
     max-width: 600px;
-    
 }
 
 .status {

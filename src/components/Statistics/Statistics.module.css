@@ -18,13 +18,14 @@
 .item {
     display: flex;
     flex-direction: column;
-    
+
     min-width: 100px;
     gap: 10px;
     padding: 10px;
 }
 
-.label, .percentage {
+.label,
+.percentage {
     color: white;
 }
 
